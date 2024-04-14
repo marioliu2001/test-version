@@ -1,5 +1,19 @@
 # 变更日志
 
+## [2.2.0](https://github.com/marioliu2001/test-version/compare/v2.1.0...v2.2.0) (2024-04-14)
+
+
+### ✨ Features | 新功能
+
+* **新1:** 新功能1 ([718f939](https://github.com/marioliu2001/test-version/commit/718f939e3530cd39e8e7c704b9c7658a7cb69f15))
+* **新2:** 新功能2 ([ffecea4](https://github.com/marioliu2001/test-version/commit/ffecea43e2c9cdc3eae8d8c8ea9b8c3f6e9891d3))
+* **新4:** 新功能4 ([f8d6752](https://github.com/marioliu2001/test-version/commit/f8d6752bd5e1b42f6da9db101b4133081d2e75e9))
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **修3:** 新功能3 ([022ecba](https://github.com/marioliu2001/test-version/commit/022ecba58e6a72a3f499040eb6560e4663827047))
+
 ## [2.1.0](https://github.com/marioliu2001/test-version/compare/v2.0.0...v2.1.0) (2024-04-14)
 
 ## [2.0.0](https://github.com/marioliu2001/test-version/compare/v1.1.4...v2.0.0) (2024-04-14)

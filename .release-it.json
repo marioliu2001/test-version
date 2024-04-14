@@ -1,9 +1,9 @@
 {
   "plugins": {
     "@release-it/conventional-changelog": {
+      "header": "# 变更日志",
       "preset": {
         "name": "conventionalcommits",
-        "header": "# 变更日志",
         "types": [
           { "type": "feat", "section": "✨ Features | 新功能" },
           { "type": "fix", "section": "🐛 Bug Fixes | Bug 修复" },

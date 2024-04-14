@@ -14,7 +14,7 @@
           { "type": "perf", "section": "⚡ Performance Improvements | 性能优化" },
           { "type": "test", "section": "✅ Tests | 测试" },
           { "type": "revert", "section": "⏪ Reverts | 回退" },
-          { "type": "build", "section": "👷‍ Build System | 构建" },
+          { "type": ":build", "section": "👷‍ Build System | 构建" },
           { "type": ":ci", "section": "🔧 Continuous Integration | CI 配置" },
           { "type": ":config", "section": "🔨 CONFIG | 配置" }
         ]

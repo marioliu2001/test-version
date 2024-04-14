@@ -1,5 +1,12 @@
 # 变更日志
 
+## [0.0.10](https://github.com/marioliu2001/test-version/compare/v0.0.9...v0.0.10) (2024-04-14)
+
+
+### 🔨 CONFIG | 配置
+
+* **配置文件:** 修改1 ([740429f](https://github.com/marioliu2001/test-version/commit/740429f9017bf24faba3d12b9d42a45f02dd2701))
+
 ## [0.0.9](https://github.com/marioliu2001/test-version/compare/v0.0.8...v0.0.9) (2024-04-14)
 
 

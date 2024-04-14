@@ -1,5 +1,7 @@
 # 变更日志
 
+## [2.2.1](https://github.com/marioliu2001/test-version/compare/v2.2.0...v2.2.1) (2024-04-14)
+
 ## [2.2.0](https://github.com/marioliu2001/test-version/compare/v2.1.0...v2.2.0) (2024-04-14)
 
 

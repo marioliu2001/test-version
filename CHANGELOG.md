@@ -1,5 +1,7 @@
 # 变更日志
 
+## [0.0.8](https://github.com/marioliu2001/test-version/compare/v0.0.7...v0.0.8) (2024-04-14)
+
 ## [0.0.7](https://github.com/marioliu2001/test-version/compare/v0.0.6...v0.0.7) (2024-04-14)
 
 ## [0.0.6](https://github.com/marioliu2001/test-version/compare/v0.0.5...v0.0.6) (2024-04-14)

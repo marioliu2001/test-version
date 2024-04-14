@@ -1,5 +1,12 @@
 # 变更日志
 
+## [1.1.1](https://github.com/marioliu2001/test-version/compare/v1.1.0...v1.1.1) (2024-04-14)
+
+
+### 🐛 Bug Fixes | Bug 修复
+
+* **哈哈哈:** 哈啊哈哈 ([edca7f9](https://github.com/marioliu2001/test-version/commit/edca7f9e7cc77e0ebdbc0e0bce639d97eaa1b125))
+
 ## [1.1.0](https://github.com/marioliu2001/test-version/compare/v1.0.0...v1.1.0) (2024-04-14)
 
 

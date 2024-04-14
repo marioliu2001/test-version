@@ -1,5 +1,16 @@
 # 变更日志
 
+## [1.0.0](https://github.com/marioliu2001/test-version/compare/v0.0.11...v1.0.0) (2024-04-14)
+
+
+### ⚠ BREAKING CHANGES
+
+* **哈哈哈:** 版本大更新
+
+### ✨ Features | 新功能
+
+* **哈哈哈:** 哈啊哈哈 ([c197aa9](https://github.com/marioliu2001/test-version/commit/c197aa9560eda2049d143cf80a50aacfeec89caf))
+
 ## [0.0.11](https://github.com/marioliu2001/test-version/compare/v0.0.10...v0.0.11) (2024-04-14)
 
 
